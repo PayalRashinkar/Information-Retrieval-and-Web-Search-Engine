@@ -1,0 +1,8 @@
+Name: Payal Rashinkar
+USC ID: 3885141903
+Search Engine used: Ask (Assigned was: Bing)
+Reason for change: Few of the results were returning empty lists on the bing search engine.
+Average Percent Overlap: 19.4
+Average Spearman Coefficient: -10.906500000000001
+
+The statistics reveal that Ask performed poorly compared to Google. When examining the individual query statistics, it becomes evident that Ask managed to identify overlapping results for only about 69 queries. Among these queries, approximately 28 had a negative coefficient. Notably, the average negative coefficient is considerably lower than the average positive coefficient. This implies that Ask's disagreements with Google are far more frequent than its agreements.
