@@ -1,7 +1,5 @@
 # Inverted Index Creation
 
-# Homework 3: Inverted-Index Creation
-
 ## Summary
 This project involves creating an inverted index for words and selected bigrams from a collection of text files. You will process the files to generate two outputs:
 
